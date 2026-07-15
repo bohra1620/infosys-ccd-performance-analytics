@@ -1,4 +1,4 @@
-# Itsm Operations Data Warehouse & Analytics
+# ITSM Operations Data Warehouse & Analytics
 End-to-end Medallion Data Architecture (SQL Server) for IT Service Operations (ITSM), designed to track agent performance, SLA adherence, and customer feedback across multiple platforms.
 
 # Project Overview
